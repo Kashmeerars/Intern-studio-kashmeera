@@ -6,4 +6,4 @@ This repository contains tasks provided by Internship studio and the solutions p
 
 2.Task 1: this folder contains 5 images related to Task 1
 
-3.Task 2: this folder contains
+3.Task 2: this folder contains 2 videos and a powerpoint presentation
